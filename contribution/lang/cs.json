@@ -8882,7 +8882,7 @@
  	 	 	 	"trans": "Kop",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Nakopněte ostatní hráče z vašeho gangu.",
+ 	 	 	 	 	"trans": "Vyhodťe ostatní hráče z vašeho gangu.",
  	 	 	 	 	"eng": "Kick other players from your gang."
  	 	 	 	}
  	 	 	},
@@ -8908,11 +8908,11 @@
  	 	 	 	"vars": [
  	 	 	 	 	"amount"
  	 	 	 	],
- 	 	 	 	"trans": "Máte nedostatečné bitcoiny, vyžadováno: ${amount}",
+ 	 	 	 	"trans": "Nemáte dostatečně bitcoinů, vyžadováno: ${amount}",
  	 	 	 	"eng": "You have insufficient Bitcoin, required: ${amount}"
  	 	 	},
  	 	 	"inviteCooldown": {
- 	 	 	 	"trans": "Tento hráč jste již pozvali",
+ 	 	 	 	"trans": "Tohoto hráče jste již pozvali",
  	 	 	 	"eng": "You have already invited this player recently"
  	 	 	}
  	 	},
@@ -9077,17 +9077,17 @@
  	 	 	"vars": [
  	 	 	 	"email"
  	 	 	],
- 	 	 	"trans": "E -mail s resetováním hesla byl odeslán na {email}",
+ 	 	 	"trans": "E -mail pro resetování hesla byl odeslán na {email}",
  	 	 	"eng": "An password reset email has been sent to {email}"
  	 	},
  	 	"checkEmail": {
- 	 	 	"trans": "Zkontrolujte prosím svůj e -mail a postupujte podle pokynů a resetujte heslo",
+ 	 	 	"trans": "Zkontrolujte prosím svůj e -mail a postupujte podle pokynů pro resetování hesla",
  	 	 	"eng": "Please check your email and follow the instructions to reset the password"
  	 	}
  	},
  	"leaderboardTypePage": {
  	 	"gameplay": {
- 	 	 	"trans": "Hraní žebříčky",
+ 	 	 	"trans": "Hrací žebříčky",
  	 	 	"eng": "Gameplay Leaderboards"
  	 	},
  	 	"gameplayDesc": {
@@ -9107,7 +9107,7 @@
  	 	 	"eng": "Community Contribution"
  	 	},
  	 	"contributionDesc": {
- 	 	 	"trans": "Tyto desky ukazují respekt a kredity legendám, které přispěly do komunity.❤",
+ 	 	 	"trans": "Tyto desky ukazují respekt a kredity legendám, které přispěly do komunity.❤️",
  	 	 	"eng": "These boards shows respect and credits to the legends who have contributed to the community.❤️"
  	 	}
  	},
@@ -9247,7 +9247,7 @@
  	 	 	 	 	"player",
  	 	 	 	 	"item"
  	 	 	 	],
- 	 	 	 	"trans": "🎉Congratulace! ${player} obdržel ${item}!",
+ 	 	 	 	"trans": "🎉Gratulujeme! ${player} obdržel ${item}!",
  	 	 	 	"eng": "🎉Congratulation! ${player} received ${item}!"
  	 	 	}
  	 	}
